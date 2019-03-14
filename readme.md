@@ -16,6 +16,9 @@
 
 &emsp;&emsp;020 [有效的字符串](https://github.com/SimmyZhong/leetCode/blob/master/stack/20_validBrackets.py)
 
+&emsp;&emsp;155 [最小栈](https://github.com/SimmyZhong/leetCode/blob/master/stack/155_minStack.py)
+
+
 
 
 
