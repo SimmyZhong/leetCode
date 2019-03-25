@@ -14,7 +14,6 @@ https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
 输出: [1,3,2]
 """
 
-from dataStructure.tree import TreeNode
 
 class Solution:
 
