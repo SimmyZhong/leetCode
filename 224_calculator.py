@@ -56,26 +56,6 @@ class Solution2:
         return num
 
 
-class Solution:
-    def calculate(self, s: str) -> int:
-        stack = list()
-        Operator = {"+": add, "-": mimus, "*": plus, "/": div}
-        num, result = 0, 0
-        oper = None
-        for each in s:
-            if each in ["(", ")", " "]:
-                continue
-            elif each not in Operator:
-                num = num * 10 + int(each)
-            else:
-                if not oper:
-                    result = num
-                else:
-                    result = Operator[oper](result, num)
-                oper = each
-                num = 0
-        return Operator[oper](result, num)
-
 def add(x, y):
     return x + y
 
