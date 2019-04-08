@@ -28,7 +28,14 @@
 
 &emsp;**二分查找**
 
+&emsp;&emsp;029 [两数相除](https://github.com/SimmyZhong/leetCode/blob/master/29_divide-two-integers.py)
+
 &emsp;&emsp;035 [搜索插入位置](https://github.com/SimmyZhong/leetCode/blob/master/35_search-insert-position.py)
+
+&emsp;&emsp;050 [实现x的n次幂](https://github.com/SimmyZhong/leetCode/blob/master/50_powx-n.py)
+
+&emsp;&emsp;069 [x的平方根](https://github.com/SimmyZhong/leetCode/blob/master/69_sqrtx.py)
+
 
 &emsp;**字符串**
 
