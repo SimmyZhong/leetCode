@@ -36,6 +36,7 @@
 
 &emsp;&emsp;069 [x的平方根](https://github.com/SimmyZhong/leetCode/blob/master/69_sqrtx.py)
 
+&emsp;&emsp;034 [查找元素的第一个和最后一个的位置](https://github.com/SimmyZhong/leetCode/blob/master/34_first_and_last_element.py)
 
 &emsp;**字符串**
 
