@@ -40,6 +40,8 @@
 
 &emsp;&emsp;162 [寻找峰值](https://github.com/SimmyZhong/leetCode/blob/master/162_find_peak_element.py)
 
+&emsp;&emsp;374 [猜数字](https://github.com/SimmyZhong/leetCode/blob/master/374_guess-num.py)
+
 &emsp;**字符串**
 	
 &emsp;&emsp;003 [无重复最长字符串](https://github.com/SimmyZhong/leetCode/blob/master/3_maxString.py)
