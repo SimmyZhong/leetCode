@@ -1,10 +1,13 @@
+from functools import wraps
+
+
 class Node(object):
     # python类各方法实现
 
     def __new__(cls, *args, **kw):
         # 单例
         if not hasattr(cls, "_instance"):
-            cls._instance = super(Node, cls).__new__(cls)
+            cls._instance = super().__new__(cls)
         return cls._instance
 
     def __init__(self, val):
@@ -38,7 +41,44 @@ class Node(object):
         # 格式化
         return self.__val
 
+    def __getattr__(self, key):
+        print("__getattr__ function is calling.")
+        return super().__getattribute__(key)
 
+    def __getattribute__(self, key):
+        if key == "test":
+            print("__getattribute__ function is calling and then raise AttributeError.")
+            raise AttributeError
+        return super().__getattribute__(key)
+
+    def __setattr__(self, key, value):
+        if key == "test":
+            print("attr is set.")
+        return super().__setattr__(key, value)
+
+    # with的用法
+    # 紧跟with后面的语句被求值后，返回对象的__enter__方法被调用，这个方法的返回值将被赋值给as后面的变量,
+    # 当with后面的代码块全部被执行完之后，将调用前面返回对象的__exit__方法。 
+    def __enter__(self):
+        print("---in entering---")
+        return self
+
+    def __exit__(self, exc_type, exc_value, tracback):
+        print("---in exit---")
+
+
+def testDecorator(text):
+    print("decorator params: ", text)
+    def wrapper(func):
+        @wraps(func)
+        def inner(*args, **kw):
+            print("---in test decorator---")
+            return func(*args, **kw)
+        return inner
+    return wrapper
+
+
+@testDecorator('aaaa')
 def main():
     n1 = Node('abcdef')
     n2 = Node('ABCDEF')
@@ -48,6 +88,11 @@ def main():
     a = "".join([each for each in n1])
     assert(a == "BCDEF")
     assert(len(n1) == 6)
+    n1.test = "test: getattr"
+    print(n1.test)
+    print(hasattr(n1, "tt"))
+    with n1 as n:
+        print(n)
 
 if __name__ == "__main__":
     main()
