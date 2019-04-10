@@ -40,6 +40,9 @@
 
 &emsp;&emsp;162 [寻找峰值](https://github.com/SimmyZhong/leetCode/blob/master/162_find_peak_element.py)
 
+&emsp;&emsp;167 [两数之和](https://github.com/SimmyZhong/leetCode/blob/master/167_two_sum.go)
+
+
 &emsp;**字符串**
 	
 &emsp;&emsp;003 [无重复最长字符串](https://github.com/SimmyZhong/leetCode/blob/master/3_maxString.py)
@@ -47,4 +50,8 @@
 &emsp;&emsp;008 [字符串转换整数 (atoi) ](https://github.com/SimmyZhong/leetCode/blob/master/8_string-to-integer-atoi.py)
 
 &emsp;&emsp;387 [字符串中第一个唯一字符](https://github.com/SimmyZhong/leetCode/blob/master/387_first-unique-character-in-a-string.py)
+
+&emsp;**字符串**
+	
+&emsp;&emsp;350 [数组的交集](https://github.com/SimmyZhong/leetCode/blob/master/golang/350_intersection-of-two-arrays-ii.go)
 
