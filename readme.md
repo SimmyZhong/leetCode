@@ -38,10 +38,15 @@
 
 &emsp;&emsp;069 [x的平方根](https://github.com/SimmyZhong/leetCode/blob/master/69_sqrtx.py)
 
+&emsp;&emsp;074 [搜索二维矩阵](https://github.com/SimmyZhong/leetCode/blob/master/74_search_2d_matrix.py)
+
 &emsp;&emsp;162 [寻找峰值](https://github.com/SimmyZhong/leetCode/blob/master/162_find_peak_element.py)
 
 &emsp;&emsp;167 [两数之和](https://github.com/SimmyZhong/leetCode/blob/master/167_two_sum.go)
 
+&emsp;&emsp;222 [完全二叉树节点数](https://github.com/SimmyZhong/leetCode/blob/master/222_count_complete_tree_nodes.py)
+
+&emsp;&emsp;374 [猜数字](https://github.com/SimmyZhong/leetCode/blob/master/374_guess-num.py)
 
 &emsp;**字符串**
 	
