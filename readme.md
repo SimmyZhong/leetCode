@@ -48,6 +48,8 @@
 
 &emsp;&emsp;374 [猜数字](https://github.com/SimmyZhong/leetCode/blob/master/374_guess-num.py)
 
+&emsp;&emsp;744 [寻找比目标字母大的最小字母](https://github.com/SimmyZhong/leetCode/blob/master/golang/744_first_smallist_letter.go)
+
 &emsp;**字符串**
 	
 &emsp;&emsp;003 [无重复最长字符串](https://github.com/SimmyZhong/leetCode/blob/master/3_maxString.py)
