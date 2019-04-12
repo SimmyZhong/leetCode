@@ -62,5 +62,7 @@
 	
 &emsp;&emsp;15 [三数之和](https://github.com/SimmyZhong/leetCode/blob/master/3sums.py)
 
+&emsp;&emsp;287 [寻找重复数](https://github.com/SimmyZhong/leetCode/blob/master/golang/287_find-the-duplicate-number.go)
+
 &emsp;&emsp;350 [数组的交集](https://github.com/SimmyZhong/leetCode/blob/master/golang/350_intersection-of-two-arrays-ii.go)
 
