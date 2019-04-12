@@ -46,6 +46,8 @@
 
 &emsp;&emsp;222 [完全二叉树节点数](https://github.com/SimmyZhong/leetCode/blob/master/222_count_complete_tree_nodes.py)
 
+&emsp;&emsp;367 [有效的完全平方数](https://github.com/SimmyZhong/leetCode/blob/master/golang/367_valid-perfect-square.go)
+
 &emsp;&emsp;374 [猜数字](https://github.com/SimmyZhong/leetCode/blob/master/374_guess-num.py)
 
 &emsp;&emsp;744 [寻找比目标字母大的最小字母](https://github.com/SimmyZhong/leetCode/blob/master/golang/744_first_smallist_letter.go)
@@ -65,4 +67,3 @@
 &emsp;&emsp;287 [寻找重复数](https://github.com/SimmyZhong/leetCode/blob/master/golang/287_find-the-duplicate-number.go)
 
 &emsp;&emsp;350 [数组的交集](https://github.com/SimmyZhong/leetCode/blob/master/golang/350_intersection-of-two-arrays-ii.go)
-
