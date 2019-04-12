@@ -58,7 +58,9 @@
 
 &emsp;&emsp;387 [字符串中第一个唯一字符](https://github.com/SimmyZhong/leetCode/blob/master/387_first-unique-character-in-a-string.py)
 
-&emsp;**字符串**
+&emsp;**数组**
 	
+&emsp;&emsp;15 [三数之和](https://github.com/SimmyZhong/leetCode/blob/master/3sums.py)
+
 &emsp;&emsp;350 [数组的交集](https://github.com/SimmyZhong/leetCode/blob/master/golang/350_intersection-of-two-arrays-ii.go)
 
