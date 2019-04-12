@@ -62,9 +62,9 @@
 
 &emsp;**数组**
 	
-&emsp;&emsp;15 [三数之和](https://github.com/SimmyZhong/leetCode/blob/master/3sums.py)
+&emsp;&emsp;015 [三数之和](https://github.com/SimmyZhong/leetCode/blob/master/3sums.py)
 
-&emsp;&emsp;27 [移除元素](https://github.com/SimmyZhong/leetCode/blob/master/golang/27_remove-element.go)
+&emsp;&emsp;027 [移除元素](https://github.com/SimmyZhong/leetCode/blob/master/golang/27_remove-element.go)
 
 &emsp;&emsp;287 [寻找重复数](https://github.com/SimmyZhong/leetCode/blob/master/golang/287_find-the-duplicate-number.go)
 
