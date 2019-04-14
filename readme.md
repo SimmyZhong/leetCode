@@ -74,4 +74,6 @@
 	
 &emsp;&emsp;015 [最大子序和](https://github.com/SimmyZhong/leetCode/blob/master/golang/53_maximum_subarray.go)
 
+&emsp;&emsp;064 [最小路径和](https://github.com/SimmyZhong/leetCode/blob/master/64_minimum-path-sum.py)
+
 &emsp;&emsp;120 [三角形的最小和最大路径和](https://github.com/SimmyZhong/leetCode/blob/master/120_triangle.py)
