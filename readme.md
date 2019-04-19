@@ -26,6 +26,12 @@
 
 &emsp;&emsp;224 [计算器](https://github.com/SimmyZhong/leetCode/blob/master/224_calculator.py)
 
+&emsp;&emsp;429 [N叉树层序遍历](https://github.com/SimmyZhong/leetCode/blob/master/429_589_590_n-ary-tree-traversal.py)
+
+&emsp;&emsp;589 [N叉树前序遍历](https://github.com/SimmyZhong/leetCode/blob/master/429_589_590_n-ary-tree-traversal.py)
+
+&emsp;&emsp;590 [N叉树后序遍历](https://github.com/SimmyZhong/leetCode/blob/master/429_589_590_n-ary-tree-traversal.py)
+
 &emsp;**二分查找**
 
 &emsp;&emsp;029 [两数相除](https://github.com/SimmyZhong/leetCode/blob/master/29_divide-two-integers.py)
@@ -83,5 +89,8 @@
 &emsp;&emsp;120 [三角形的最小和最大路径和](https://github.com/SimmyZhong/leetCode/blob/master/120_triangle.py)
 
 &emsp;&emsp;121 [买卖股票的最佳时机](https://github.com/SimmyZhong/leetCode/blob/master/121_best-time-to-buy-and-sell-stock.py)
+<<<<<<< HEAD
 
 &emsp;&emsp;139 [单词拆分](https://github.com/SimmyZhong/leetCode/blob/master/139_word-break.py)
+=======
+>>>>>>> 56601fb04d1fa479232ff077078489435d7ea63d
