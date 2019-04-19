@@ -45,16 +45,29 @@ class TreeNode(object):
 			result.insert(0, root.val)
 		return result
 
+	def widthTraveral(self):
+		"""层序遍历"""
+		queue, result = [self], []
+		while queue:
+			root = queue.pop(0)
+			result.append(root.val)
+			if root.left:
+				queue.append(root.left)
+			if root.right:
+				queue.append(root.right)
+		return result
+
 	def ThreeTraveral(self):
 		"""三种遍历递归法"""
-		result = dict(FromSearch=[], MidSearch=[], BackSearch=[])
-		result["FromSearch"].append(self.val)
+		result = dict(PreOrderTraversal=[], InOrderTraveral=[], PostOrderTraveral=[])
+		result["PreOrderTraversal"].append(self.val)
 		if self.left:
 			for each in result:
 				result[each].extend(self.left.ThreeTraveral()[each])
-		result["MidSearch"].append(self.val)
+		result["InOrderTraveral"].append(self.val)
 		if self.right:
 			for each in result:
 				result[each].extend(self.right.ThreeTraveral()[each])
-		result["BackSearch"].append(self.val)
+		result["PostOrderTraveral"].append(self.val)
 		return result
+
