@@ -26,7 +26,11 @@
 
 &emsp;&emsp;224 [计算器](https://github.com/SimmyZhong/leetCode/blob/master/224_calculator.py)
 
-&emsp;&emsp;429 [N叉树层序遍历](https://github.com/SimmyZhong/leetCode/blob/master/429_n-ary-tree-level-order-traversal.py)
+&emsp;&emsp;429 [N叉树层序遍历](https://github.com/SimmyZhong/leetCode/blob/master/429_589_590_n-ary-tree-traversal.py)
+
+&emsp;&emsp;589 [N叉树前序遍历](https://github.com/SimmyZhong/leetCode/blob/master/429_589_590_n-ary-tree-traversal.py)
+
+&emsp;&emsp;590 [N叉树后序遍历](https://github.com/SimmyZhong/leetCode/blob/master/429_589_590_n-ary-tree-traversal.py)
 
 &emsp;**二分查找**
 
