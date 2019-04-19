@@ -86,11 +86,10 @@
 
 &emsp;&emsp;064 [最小路径和](https://github.com/SimmyZhong/leetCode/blob/master/64_minimum-path-sum.py)
 
+&emsp;&emsp;070 [爬楼梯](https://github.com/SimmyZhong/leetCode/blob/master/golang/70_climbing-stairs.go)
+
 &emsp;&emsp;120 [三角形的最小和最大路径和](https://github.com/SimmyZhong/leetCode/blob/master/120_triangle.py)
 
 &emsp;&emsp;121 [买卖股票的最佳时机](https://github.com/SimmyZhong/leetCode/blob/master/121_best-time-to-buy-and-sell-stock.py)
-<<<<<<< HEAD
 
 &emsp;&emsp;139 [单词拆分](https://github.com/SimmyZhong/leetCode/blob/master/139_word-break.py)
-=======
->>>>>>> 56601fb04d1fa479232ff077078489435d7ea63d
