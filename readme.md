@@ -82,5 +82,6 @@
 
 &emsp;&emsp;120 [三角形的最小和最大路径和](https://github.com/SimmyZhong/leetCode/blob/master/120_triangle.py)
 
-&emsp;&emsp;121 [买卖股票的最佳时机](https://github.com/SimmyZhong/leetCode/blob/master/121_best-time-to-buy-and-sell-stock
-.py)
+&emsp;&emsp;121 [买卖股票的最佳时机](https://github.com/SimmyZhong/leetCode/blob/master/121_best-time-to-buy-and-sell-stock.py)
+
+&emsp;&emsp;139 [单词拆分](https://github.com/SimmyZhong/leetCode/blob/master/139_word-break.py)
