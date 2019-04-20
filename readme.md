@@ -95,3 +95,6 @@
 &emsp;&emsp;139 [单词拆分](https://github.com/SimmyZhong/leetCode/blob/master/139_word-break.py)
 
 &emsp;&emsp;198 [打家劫舍](https://github.com/SimmyZhong/leetCode/blob/master/golang/198_house-robber.go)
+
+&emsp;&emsp;303 [区域和检索 - 数组不可变](https://github.com/SimmyZhong/leetCode/blob/master/golang/303_range-sum-query-immutable.go)
+
