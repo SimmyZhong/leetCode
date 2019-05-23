@@ -10,21 +10,21 @@ https://leetcode-cn.com/problems/validate-binary-search-tree/
 示例 1:
 
 输入:
-    2
+	2
    / \
   1   3
 输出: true
 示例 2:
 
 输入:
-    5
+	5
    / \
   1   4
-     / \
-    3   6
+	 / \
+	3   6
 输出: false
 解释: 输入为: [5,1,4,null,null,3,6]。
-     根节点的值为 5 ，但是其右子节点值为 4 。
+	 根节点的值为 5 ，但是其右子节点值为 4 。
 
 */
 
@@ -45,12 +45,12 @@ func isValidBST(root *TreeNode) bool {
 	// 定义最小整数
 	var curVal = ^int(^uint(0)>>1)
 	var stack []*TreeNode
-    for root != nil || len(stack) != 0 {
+	for root != nil || len(stack) != 0 {
 		if root != nil {
 			// 入栈
 			stack = append(stack, root)
 			root = root.Left
-        } else if len(stack) != 0 {
+		} else if len(stack) != 0 {
 			// 出栈
 			root, stack = stack[len(stack)-1],  stack[:len(stack)-1]
 			if curVal < root.Val {
