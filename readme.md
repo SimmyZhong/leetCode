@@ -20,6 +20,8 @@
 
 &emsp;&emsp;094 [二叉搜索树中序遍历](https://github.com/SimmyZhong/leetCode/blob/master/94_inorder_traversal.py)
 
+&emsp;&emsp;098 [有效的二叉搜索树](https://github.com/SimmyZhong/leetCode/blob/master/golang/98_validate-binary-search-tree.go)
+
 &emsp;&emsp;155 [最小栈](https://github.com/SimmyZhong/leetCode/blob/master/155_minStack.py)
 
 &emsp;&emsp;173 [二叉搜索树迭代器](https://github.com/SimmyZhong/leetCode/blob/master/173_BST_iterator.py)
