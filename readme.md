@@ -106,6 +106,8 @@
 
 &emsp;&emsp;303 [区域和检索 - 数组不可变](https://github.com/SimmyZhong/leetCode/blob/master/golang/303_range-sum-query-immutable.go)
 
-&emsp;&emsp;518 [零钱组合2](https://github.com/SimmyZhong/leetCode/blob/master/518_coin_change.py)
+&emsp;&emsp;322 [零钱组合](https://github.com/SimmyZhong/leetCode/blob/master/322_coin_change.py)
+
+&emsp;&emsp;518 [零钱组合2](https://github.com/SimmyZhong/leetCode/blob/master/518_coin_change_2.py)
 
 &emsp;&emsp;746 [使用最小花费爬楼梯](https://github.com/SimmyZhong/leetCode/blob/master/golang/746_min-cost-climbing-stairs.go)
