@@ -72,6 +72,8 @@
 
 &emsp;&emsp;058 [最后一个单词的长度](https://github.com/SimmyZhong/leetCode/blob/master/golang/58_length-of-last-word.go)
 
+&emsp;&emsp;071 [简化路径](https://github.com/SimmyZhong/leetCode/blob/master/71_simplify-path.py)
+
 &emsp;&emsp;387 [字符串中第一个唯一字符](https://github.com/SimmyZhong/leetCode/blob/master/387_first-unique-character-in-a-string.py)
 
 &emsp;&emsp;524 [通过删除字母匹配到字典里最长单词](https://github.com/SimmyZhong/leetCode/blob/master/524_longest-word-in-dictionary-through-deleting.py)

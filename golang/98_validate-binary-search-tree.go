@@ -77,5 +77,8 @@ func isValid(node *TreeNode, minVal, maxVal int) bool {
 	 
 }
 
+func main() {
+	fmt.Println(^uint(0)*2)
+}
 
 	
