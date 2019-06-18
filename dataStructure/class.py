@@ -83,9 +83,10 @@ def main():
     n1 = Node('abcdef')
     n2 = Node('ABCDEF')
     assert(n1 is n2)
-    assert(n1[0] == "A")
+    print(n1[:34])
     assert(next(n1) == "A")
     a = "".join([each for each in n1])
+    print(a)
     assert(a == "BCDEF")
     assert(len(n1) == 6)
     n1.test = "test: getattr"
