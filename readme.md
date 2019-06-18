@@ -96,6 +96,8 @@
 
 &emsp;&emsp;070 [爬楼梯](https://github.com/SimmyZhong/leetCode/blob/master/golang/70_climbing-stairs.go)
 
+&emsp;&emsp;96 [不同的二叉搜索树](https://github.com/SimmyZhong/leetCode/blob/master/96_unique_binary_search_trees.py)
+
 &emsp;&emsp;120 [三角形的最小和最大路径和](https://github.com/SimmyZhong/leetCode/blob/master/120_triangle.py)
 
 &emsp;&emsp;121 [买卖股票的最佳时机](https://github.com/SimmyZhong/leetCode/blob/master/121_best-time-to-buy-and-sell-stock.py)
