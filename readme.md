@@ -117,3 +117,7 @@
 &emsp;&emsp;518 [零钱组合2](https://github.com/SimmyZhong/leetCode/blob/master/518_coin_change_2.py)
 
 &emsp;&emsp;746 [使用最小花费爬楼梯](https://github.com/SimmyZhong/leetCode/blob/master/golang/746_min-cost-climbing-stairs.go)
+
+&emsp;**深度优先遍历**
+
+&emsp;&emsp;518 [组合总和2](https://github.com/SimmyZhong/leetCode/blob/master/40_combination-sum-ii.py)
